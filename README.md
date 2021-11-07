@@ -10,6 +10,8 @@
 
 ### new_board
 ![result](https://user-images.githubusercontent.com/88148144/140634710-f0777985-872b-47c1-9735-f719bcdafb34.jpg)
+
+### better_board
 ![better result](https://user-images.githubusercontent.com/88148144/140634711-13a33f3a-fa36-4733-af21-eab5f78db055.jpg)
 
 #### highway
@@ -21,6 +23,6 @@
 ###### paint
 ![out_put](https://user-images.githubusercontent.com/88148144/140634823-4b768a47-13f5-402d-8931-255d8f0baa38.jpg)
 
-####### noise
+** noise **
 
 ![result](https://user-images.githubusercontent.com/88148144/140634833-b13985bd-b2bd-429b-b9dd-1e07bdee60e9.jpg)
